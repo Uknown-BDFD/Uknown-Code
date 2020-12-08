@@ -1,0 +1,15 @@
+Yo, This Is Third Part!
+
+I already explain $getVar and $getUserVar On Part 1
+
+Here all codes:
+
+Local:
+$setUserVar[Money;$sub[$getUserVar[Money];ptices]] - Remove Their Money How Much The Prices Of That Items
+$setUserVar[item1;$sum[$getUserVar[item1];1]] - Get The Items
+
+Global:
+$setVar[Money;$sub[$getVar[Money;$authorID];prices];$authorID]
+$setVar[item1;$sum[$getVar[item1;$authorID];1];$authorID]
+
+$onlyIf[$getVar[Money;$authorID]>Prices;Bruh you don't have enough Money!] - When They Not Have Enough Money To Buy Items
