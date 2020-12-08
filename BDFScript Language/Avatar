@@ -1,0 +1,6 @@
+Yes An Avatar Commands, Also I'll explain one by one!
+
+First Is:
+$authorAvatar - Who runs the commands it will show the avatar
+Second Is:
+$userAvatar[userID] - This is need an userID, with Easier Mode Using $userAvatar[$mentioned[1;yes]]
