@@ -1,0 +1,17 @@
+Hi, you just go to second part of Work commands
+I'll give these basic code!
+
+Variable Need:
+(You can change to your variables)
+
+"Variable Name:" "Money"
+"Variable Value:" "0"
+
+Local Commands:
+$getUserVar[Money]
+
+Global Commands:
+$gerVar[Money;$authorID]
+
+Well If you want check with Mentioned
+You Just Need Replace $authorID To '$mentioned[1;yes]'
