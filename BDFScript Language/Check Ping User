@@ -1,0 +1,9 @@
+Well, this is very very easier way to check their ping
+
+Using '$ping' yeah is it easy! 
+
+Examples:
+$title[$username's Ping]
+$description[Your Ping Was $ping]
+
+Well if you use '$editIn' the '$ping' can't check your ping
