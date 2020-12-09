@@ -1,0 +1,19 @@
+Well if you want your message edited i'll explain it! 
+
+We using '$editIn' Yeah Simple!
+
+Q: How to use it?
+A: Easy It Is $editIn[times;New Message]
+
+Examples:
+
+$editIn[2s;Hello]
+It means your message will edited after 2seconds!
+S= Seconds, H= Hours, D= Day.
+
+Before Without Using Embed, Now I'll Show How To Using With Embed!
+
+$editEmbedIn[time;title;message;footer;color]
+
+Q: Is it same like $editIn?
+A: Yeah is it
