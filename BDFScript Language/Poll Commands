@@ -1,0 +1,20 @@
+Oh, you wanna make a Poll Commands? It's Easy I'll Explain!
+
+$useChannel[channelID] - Where the bot will sending the poll messages
+$addReactions[emoji1;emoji2] - It will adding reactions
+
+Q: How to see channelID?
+A: If you on mobile, you need enable Developer Mode. You can search on YT
+A2: If you on PC, Enable Developer Mode, And Then Right Click To Channel And Click Copy ID
+
+Still confuse?
+I'll Give Example:
+
+$title[A New Poll]
+$description[$message]
+$footer[React 👍 If You Like It |👎 If Don't Like It]
+$useChannel[channelID]
+$addReactions[👍;👎]
+
+Q: What is $message For?
+A: When User Typing Long Text, The Bot Will Sending All The Text!
